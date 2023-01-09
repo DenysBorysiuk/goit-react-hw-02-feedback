@@ -21,6 +21,7 @@ export const List = styled.ul`
 
 export const Btn = styled.button`
   background-color: transparent;
+  text-transform: capitalize;
   border: 1px solid black;
   border-radius: 5px;
   cursor: pointer;
